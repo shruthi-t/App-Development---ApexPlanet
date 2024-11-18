@@ -1,0 +1,38 @@
+Task 3: Backend Integration and API Development
+
+Objective:
+
+To integrate backend services and APIs into the application effectively and ensure smooth data flow between the frontend and backend.
+
+Activities and Timeline:
+
+1. Days 19-21:
+
+Backend Services Introduction
+Learned about backend services and REST APIs.
+Explored tools such as Firebase for backend integration.
+
+2. Days 22-24: 
+
+API Integration
+Set up API calls to fetch and send data.
+Implemented data handling and parsing in Android Studio to ensure smooth communication with APIs.
+
+3. Days 25-27:
+
+Error Handling and Debugging
+Implemented error handling mechanisms for API requests to ensure reliability and resilience.
+Debugged and resolved issues related to data integration and API functionality.
+
+Deliverables:
+
+Updated the GitHub repository with the following:
+Complete backend integration.
+API functionality, including data fetching, sending, and error handling.
+A LinkedIn post was created to share the experience, process, and challenges faced during the backend integration phase.
+
+Learnings:
+
+Gained a solid understanding of REST API concepts and tools like Firebase.
+Enhanced debugging and error-handling skills in Android development.
+Improved the ability to integrate APIs into mobile applications seamlessly.
