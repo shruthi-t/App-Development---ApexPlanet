@@ -1,0 +1,35 @@
+Features Added:
+
+
+1. Password Toggle
+Description: Users can toggle the visibility of the password in the password input field.
+
+How It Works:
+A clickable eye icon is placed inside the password field.
+Clicking the icon switches the password visibility between hidden and visible.
+The icon dynamically changes based on the current state (visible or hidden).
+
+2. Remember Me Functionality
+Description: Allows users to save their username for future logins.
+
+How It Works:
+A checkbox labeled "Remember Me" is added.
+If checked, the username is saved in shared preferences and automatically displayed in the username field on the next app launch.
+If unchecked, the saved username is removed.
+
+3. Input Validation
+Description: Validates that the username and password fields are not empty before proceeding with the login.
+
+How It Works:
+When the "Login" button is pressed, the app checks both fields.
+If any field is empty, a toast message notifies the user to fill in all fields.
+
+4. Toast Message
+Description: Provides feedback to the user upon successful login.
+
+How It Works:
+After successful validation, a toast message displays "Login successful," giving clear feedback.
+
+
+
+
